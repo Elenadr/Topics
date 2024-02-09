@@ -1,4 +1,8 @@
-**NIC teaming**, which is a method used to group multiple network interface controllers (NICs) together to function as a single entity. This is often done for redundancy, load balancing, or both. It helps improve network reliability and performance by distributing network traffic across multiple NICs.
+## **NIC teaming**  
+
+^2f7f76
+
+which is a method used to group multiple network interface controllers (NICs) together to function as a single entity. This is often done for redundancy, load balancing, or both. It helps improve network reliability and performance by distributing network traffic across multiple NICs. ^3d74a6
 
 **File integrity monitoring (FIM**), sometimes referred to as file integrity management, is a security process that monitors and analyzes the integrity of critical assets, including file systems, directories, databases, network devices, the operating system (OS), OS components and software applications for signs of tampering or corruption, which may be an indication of a [cyberattack](https://www.crowdstrike.com/cybersecurity-101/cyberattacks/).
 

@@ -82,7 +82,7 @@ https://medium.com/@boscowjohn128/top-original-comptia-sy0-701-exam-questions-au
  32. https://www.examtopics.com/exams/comptia/sy0-601/view/4/#
  33. v
  34. v
- 35. [[Concepts]]¿?¿?¿?¿? https://www.examtopics.com/discussions/comptia/view/78512-exam-sy0-601-topic-1-question-35-discussion/ 
+ 35. [[Concepts#^2f7f76| Ref]] ¿?¿?¿?¿? https://www.examtopics.com/discussions/comptia/view/78512-exam-sy0-601-topic-1-question-35-discussion/ 
  36. v
  37. hoax concetps
  38. v
