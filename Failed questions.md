@@ -50,8 +50,10 @@ The administrator terminates the timeAttend.exe, observes system performance ove
 - C. Buffer overflow
 - <mark class="hltr-green">D. Memory leak</mark>
 ---
+
 <mark class="hltr-blue">A memory leak occurs when a program or process does not release memory resources properly after it is no longer needed. As a result, memory consumption continues to increase over time, leading to degraded performance and potential system instability. In this case, the system administrator observed degraded performance on the virtual server, which improved temporarily after increasing the virtual memory allocation. However, the performance degraded again after a few days. The output of the analysis tool indicates that there are 4608 bytes in 18 blocks of memory that are "definitely lost" at the time of exit. By terminating the "timeAttend.exe" process and observing that the system performance does not degrade afterward, it suggests that the memory leak issue was related to the "timeAttend.exe" process. Terminating the process would release the allocated memory, resolving the memory leak and improving system performance.
 </mark>
+
 ---
 #### Fingerprint
 
@@ -61,4 +63,5 @@ A security analyst wants to fingerprint a web server. Which of the following too
 - B. dig 192.168.0.10
 - C. curl --head http://192.168.0.10
 - D. ping 192.168.0.10
+
 ![](Images/Captura%20de%20Pantalla%202024-02-14%20a%20las%2012.06.14.png)

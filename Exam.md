@@ -137,12 +137,12 @@ https://medium.com/@boscowjohn128/top-original-comptia-sy0-701-exam-questions-au
  79. V
  80. V
  81. V
- 82. F [Password History](Failed%20questions#Password%20History)
+ 82. F [Password History](Failed%20questions#password-history)
  83. v
  84. v
  85. v
  86. v
- 87. f [Memory Leak](Failed%20questions#Memory%20Leak)
+ 87. f [Memory Leak](Failed%20questions.md#memory-leak)
  88. 
 
 
