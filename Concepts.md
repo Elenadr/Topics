@@ -1,10 +1,10 @@
-1. [[#NIC teaming|NIC teaming]]
-1. [[#ISO 31000|ISO 31000]]
-1. [[#Hoax|Hoax]]
-1. [[#NIST|NIST]]
-1. [[#Command and Control|Command and Control]]
-1. [[#RDP 3389|RDP 3389]]
-1. [[#Federation|Federation]]
+1. [NIC teaming](#nic-teaming)
+1. [ISO 31000](#iso-31000)
+1. [Hoax](#hoax)
+1. [NIST](#nist)
+1. [Command and Control](#command-and-control)
+1. [RDP 3389](#rdp-3389)
+1. [Federation](#federation)
 
 
 
