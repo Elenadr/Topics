@@ -1,3 +1,6 @@
+ [[#<mark class="hltr-cyan">Tirada pre examen </mark>|Tirada pre examen ]]
+En el documento
+
 https://medium.com/@boscowjohn128/top-original-comptia-sy0-701-exam-questions-authentic-comptia-dumps-top-tips-2024-4cb3757cdddc
 
 1. F
@@ -102,16 +105,29 @@ https://medium.com/@boscowjohn128/top-original-comptia-sy0-701-exam-questions-au
  48. V
  49. V
  50. V
- 51. NIST
+ 51. NIST [[Concepts#^cedf74| Nist]]|
  52. V
  53. V
- 54. REVIW
+ 54. REVIW [[Concepts#^4f87d3 |Command & Control]]
  55. V
  56. REVIEW
  57. REVIEW
  58. V
  59. V // REVIEW
- 60. REVIEW
+ 60. REVIEW // 
+ ### <mark class="hltr-cyan">Tirada pre examen </mark>
+ 61. V
+ 62. V
+ 63. V
+ 64. V
+ 65. V
+ 66. V
+ 67. V
+ 68. V 
+ 69. v
+ 70. f [[Failed questions#^db0dec | pki]]
+ 71. v
+ 72. 
 
 | | |
 | --- | --- |

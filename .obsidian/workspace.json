@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52d3fb2788dda014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +138,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam.md"
+                "file": "README.md"
               }
+            }
+          },
+          {
+            "id": "1770996cf0b2c530",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -146,11 +167,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7e4d35888102c34f",
+  "active": "52d3fb2788dda014",
   "lastOpenFiles": [
-    "Concepts.md",
     "Exam.md",
-    "hola.md",
-    "README.md"
+    "Failed questions.md",
+    "README.md",
+    "Sin título.canvas",
+    "Concepts.md",
+    "2024-W07.md",
+    "hola.md"
   ]
 }
