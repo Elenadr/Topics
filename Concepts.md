@@ -51,3 +51,10 @@ Federation uses SAML (Security Assertion Markup Language) for authentication and
 ### Comunity
 
 n a community cloud deployment model, multiple organizations or entities with common interests share computing and storage resources. It is designed for specific communities of users who have shared concerns or requirements, such as research projects, government agencies, or educational institutions. In this scenario, where several universities are participating in a collaborative research project and need to share compute and storage resources, a community cloud deployment strategy would be the best fit.
+
+
+# Digital signature
+There are 2 general ways to use asymetric algorithm. 1 - For communication between 2 hosts: If bob sends a message to Alice, bob uses Alice's public key to encrypt the message, and Alice uses her private key to decrypt the message. 2 - For digital signature/Authentication: If ALice need to authenticate Bob, BOB uses his private key to sign the message, and Alice uses the public key of bob to decrypt the message. This process help to make sure the signature is owned by Bob. On this example, A is totally correct.
+
+### SOC 2 
+(Service Organization Control 2) Type 2 report  is a widely recognized report that provides assurance about the controls and security measures implemented by a service organization. It is designed to evaluate a service provider's controls relevant to security, availability, processing integrity, confidentiality, and privacy. The SOC 2 Type 2 report specifically assesses the effectiveness of these controls over a specified period of time. Given that the Chief Information Security Officer (CISO) is requesting supporting documents to show proper controls in place to protect customer data, a SOC 2 Type 2 report would be the best choice. This report demonstrates that the third-party vendor has undergone an independent audit of its controls, providing valuable information about its security practices and compliance with industry standards

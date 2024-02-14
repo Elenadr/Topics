@@ -115,6 +115,7 @@ https://medium.com/@boscowjohn128/top-original-comptia-sy0-701-exam-questions-au
  58. V
  59. V // REVIEW
  60. REVIEW // 
+
  ### <mark class="hltr-cyan">Tirada pre examen </mark>
  61. V
  62. V
@@ -125,10 +126,10 @@ https://medium.com/@boscowjohn128/top-original-comptia-sy0-701-exam-questions-au
  67. V
  68. V 
  69. v
- 70. f [pki](Failed%20questions.md#pki)
+ 70. <mark class="hltr-red">f </mark> [pki](Failed%20questions.md#pki)
  71. v
  72. v
- 73. f [NG](Failed%20questions.md#preventive&detective)
+ 73. <mark class="hltr-red">f </mark> [NG](Failed%20questions.md#preventive&detective)
  74. V
  75. V
  76. V
@@ -137,12 +138,96 @@ https://medium.com/@boscowjohn128/top-original-comptia-sy0-701-exam-questions-au
  79. V
  80. V
  81. V
- 82. F [Password History](Failed%20questions#password-history)
+ 82. <mark class="hltr-red">f </mark> [Password History](Failed%20questions#password-history)
  83. v
  84. v
  85. v
  86. v
- 87. f [Memory Leak](Failed%20questions.md#memory-leak)
- 88. 
+ 87. <mark class="hltr-red">f </mark>[Memory Leak](Failed%20questions.md#memory-leak)
+ 88. v
+ 89. v
+ 90. <mark class="hltr-yellow">f </mark> [DUDA](Failed%20questions.md#duda)
+ 91. v
+ 92. v
+ 93. v
+ 94. v
+ 95. v
+ 96. v
+ 97. v
+ 98. v
+ 99. v
+100. <mark class="hltr-red">f </mark> [Transit Gateway](Failed%20questions.md#transit-gateway)
+ 101. V
+ 102. <mark class="hltr-red">f </mark> [Digital sig](Concepts.md#digital-signature)
+ 103. v
+ 104. v [SOC2](Concepts.md#soc-2)
+ 105. v
+ 106. v
+ 107. v
+ 108. v
+ 109. v
+ 110. v
+ 111. v
+ 112. v
+ 113. v
+ 114.   <mark class="hltr-red">f </mark> [Scalability](Failed%20questions.md#scalability)
+ 115. v
+ 116. v
+ 117. v
+ 118. <mark class="hltr-red">f </mark> [Context aware authentication](Failed%20questions.md#Context-aware-authentication])
+ 119. V
+ 120. F <mark class="hltr-yellow">f </mark> [DUDA](Failed%20questions.md#duda)
+ 121. v
+ 122. v
+ 123. v
+ 124. <mark class="hltr-yellow">f </mark> [DUDA](Failed%20questions.md#duda)
+ 125. <mark class="hltr-red">f </mark> [CASB](Failed%20questions.md#casb])
+ 126. v
+ 127. v
+ 128. v
+ 129. v
+ 130. v
+ 131. V 
+ 132. V 
+ 133. <mark class="hltr-yellow">f </mark> [DUDA](Failed%20questions.md#duda)
+ 134. <mark class="hltr-yellow">f </mark> [DUDA](Failed%20questions.md#duda)
+ 135. V
+ 136. V
+ 137. V
+ 138. DUDA
+ 139. V
+ 140. V
+ 141. V
+ 142. V
+ 143. V
+ 144. V
+ 145. DUDA
+ 146. V
+ 147. V | https://www.examtopics.com/exams/comptia/sy0-601/view/15/
+ 148. V
+ 149. V
+ 150. V
+ 151. v
+ 152. v
+ 153. v
+ 154. v
+ 155. v REVIEW
+ 156. REVIEW
+ 157. REVIEW
+ 158. REVIEW
+ 159. V
+ 160. V
+ 161.  <mark class="hltr-red">f </mark> [AUP](Failed%20questions.md#aup])
+ 162. v
+ 163. v
+ 164. v
+ 165. v
+ 166. <mark class="hltr-red">f </mark> [certs](Failed%20questions.md#certs])
+ 167. v
+ 168. v
+ 169. v
+ 170. v
+ 171. V
+ 172. F
 
 
