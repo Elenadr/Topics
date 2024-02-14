@@ -3,6 +3,9 @@
 1. [[#Hoax|Hoax]]
 1. [[#NIST|NIST]]
 1. [[#Command and Control|Command and Control]]
+1. [[#RDP 3389|RDP 3389]]
+1. [[#Federation|Federation]]
+
 
 
 ### NIC teaming
