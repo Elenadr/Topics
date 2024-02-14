@@ -1,4 +1,4 @@
- [Tirada pre examen](#Tirada pre examen)
+ [Tirada pre examen](Exam.md#tirada-pre-examen-)
 En el documento
 
 https://medium.com/@boscowjohn128/top-original-comptia-sy0-701-exam-questions-authentic-comptia-dumps-top-tips-2024-4cb3757cdddc
