@@ -1,4 +1,4 @@
- [[#<mark class="hltr-cyan">Tirada pre examen </mark>|Tirada pre examen ]]
+ [Tirada pre examen](#Tirada pre examen)
 En el documento
 
 https://medium.com/@boscowjohn128/top-original-comptia-sy0-701-exam-questions-authentic-comptia-dumps-top-tips-2024-4cb3757cdddc
@@ -105,7 +105,7 @@ https://medium.com/@boscowjohn128/top-original-comptia-sy0-701-exam-questions-au
  48. V
  49. V
  50. V
- 51. NIST [[Concepts#^cedf74| Nist]]|
+ 51. NIST [Nist](Concepts#nist)
  52. V
  53. V
  54. REVIW [[Concepts#^4f87d3 |Command & Control]]

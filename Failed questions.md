@@ -1,7 +1,5 @@
 ###### PKI
 
-^db0dec
-
 1. Business partners are working on a security mechanism to validate transactions securely. The requirement is for one company to be responsible for deploying a trusted solution that will register and issue artifacts used to sign, encrypt, and decrypt transaction files. Which of the following is the BEST solution to adopt?  
 
 - <mark style="background: #BBFABBA6;"> A. PKI</mark> 
