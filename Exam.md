@@ -125,9 +125,12 @@ https://medium.com/@boscowjohn128/top-original-comptia-sy0-701-exam-questions-au
  67. V
  68. V 
  69. v
- 70. f [[Failed questions#^db0dec | pki]]
+ 70. f [pki](Failed%20questions.md#pki)
  71. v
- 72. 
+ 72. v
+ 73. f [NG](Failed%20questions.md#preventive&detective)
+
+```
 
 | | |
 | --- | --- |
