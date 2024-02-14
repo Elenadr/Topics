@@ -62,7 +62,7 @@ The administrator terminates the timeAttend.exe, observes system performance ove
 #### Transit Gateway
 Which of the following components can be used to consolidate and forward inbound internet traffic to multiple cloud environments though a single firewall?  
 
-<mark class="hltr-green">- A. Transit gateway</mark>
+* <mark class="hltr-green"> A. Transit gateway</mark>
 - B. Cloud hot site
 - C. Edge computing
 - D. DNS sinkhole
@@ -147,7 +147,7 @@ An untrusted SSL certificate was discovered during the most recent vulnerability
 - A. Compensating
 - B. Corrective
 - C. Preventive
-- D. Detective
+- ==D. Detective==
 
 
 An organization wants to implement a biometric system with the highest likelihood that an unauthorized user will be denied access. Which of the following should the organization use to compare biometric solutions?  
@@ -156,10 +156,10 @@ An organization wants to implement a biometric system with the highest likelihoo
 - B. Difficulty of use
 - C. Cost
 - D. FAR
-- E. CER
+- ==E. CER==
 A company recently experienced a significant data loss when proprietary information was leaked to a competitor. The company took special precautions by using proper labels; however, email filter logs do not have any record of the incident. An investigation confirmed the corporate network was not breached, but documents were downloaded from an employee's COPE tablet and passed to the competitor via cloud storage. Which of the following is the BEST remediation for this data leak?  
 
-- A. User training
+- ==A. User training==
 - B. CASB
 - C. MDM
 - D. DLP
@@ -169,11 +169,11 @@ Which of the following control types would be BEST to use in an accounting depar
 - A. Recovery
 - B. Deterrent
 - C. Corrective
-- D. Detective
+- ==D. Detective==
 
 A company labeled some documents with the public sensitivity classification. This means the documents can be accessed by:  
 
-- A. employees of other companies and the press.
+- ==A. employees of other companies and the press.==
 - B. all members of the department that created the documents.
 - C. only the company's employees and those listed in the document.
 - D. only the individuals listed in the documents.
