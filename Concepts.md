@@ -47,3 +47,7 @@ Development>>Test>>Staging>>Production
 
 ### Federation
 Federation uses SAML (Security Assertion Markup Language) for authentication and single sign-on (SSO) between multiple systems or organizations. SAML is an XML-based open standard used to exchange authentication and authorization data between identity providers (IdP) and service providers (SP) to facilitate secure SSO. It enables users to access multiple applications or services with a single set of credentials, making it a key technology for enabling seamless authentication across federated systems.
+
+### Comunity
+
+n a community cloud deployment model, multiple organizations or entities with common interests share computing and storage resources. It is designed for specific communities of users who have shared concerns or requirements, such as research projects, government agencies, or educational institutions. In this scenario, where several universities are participating in a collaborative research project and need to share compute and storage resources, a community cloud deployment strategy would be the best fit.

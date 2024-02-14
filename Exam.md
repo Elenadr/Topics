@@ -1,4 +1,4 @@
- [Tirada pre examen](Exam.md#tirada-pre-examen-)
+ [Tirada pre examen](#tirada-pre-examen-)
 En el documento
 
 https://medium.com/@boscowjohn128/top-original-comptia-sy0-701-exam-questions-authentic-comptia-dumps-top-tips-2024-4cb3757cdddc
@@ -129,10 +129,20 @@ https://medium.com/@boscowjohn128/top-original-comptia-sy0-701-exam-questions-au
  71. v
  72. v
  73. f [NG](Failed%20questions.md#preventive&detective)
+ 74. V
+ 75. V
+ 76. V
+ 77. V
+ 78. V
+ 79. V
+ 80. V
+ 81. V
+ 82. F [Password History](Failed%20questions#Password%20History)
+ 83. v
+ 84. v
+ 85. v
+ 86. v
+ 87. f [Memory Leak](Failed%20questions#Memory%20Leak)
+ 88. 
 
-```
-
-| | |
-| --- | --- |
-|  |  |
 

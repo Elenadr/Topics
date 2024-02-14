@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Failed questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Failed questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Failed questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Failed questions.md"
               }
             }
           },
@@ -169,10 +169,13 @@
   },
   "active": "52d3fb2788dda014",
   "lastOpenFiles": [
-    "Failed questions.md",
-    "README.md",
     "Exam.md",
+    "Failed questions.md",
     "Concepts.md",
+    "Images/Captura de Pantalla 2024-02-14 a las 12.06.14.png",
+    "Pasted image 20240214120228.png",
+    "Images",
+    "README.md",
     "blob/main/Failed questions.md",
     "blob/main",
     "blob",
