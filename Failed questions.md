@@ -1,4 +1,87 @@
 Recap failed questions.
+
+#### tokenization
+A website developer is working on a new e-commerce website and has asked an information security expert for the most appropriate way to store credit card numbers to create an easy reordering process. Which of the following methods would BEST accomplish this goal?
+
+- A. Salting the magnetic strip information
+- B. Encrypting the credit card information in transit
+- C. Hashing the credit card numbers upon entry
+- <mark class="hltr-green">D. Tokenizing the credit cards in the database</mark>
+Tokenization is the best approach for storing credit card information securely in a database while allowing for an easy reordering process. Tokenization is a process in which sensitive data, such as credit card numbers, is replaced with a randomly generated token. The actual credit card information is securely stored in a separate, isolated system, often managed by a third-party payment processor. Here's why tokenization is the best choice: Security: Tokenization removes the need to store actual credit card numbers in the website's database, reducing the risk of a data breach or unauthorized access to sensitive information. Easy Reordering: When a customer reorders using a saved credit card, the website can use the token to reference the actual credit card information securely stored with the payment processor, making the reordering process seamless for the user.
+### soar
+A recent phishing campaign resulted in several compromised user accounts. The security incident response team has been tasked with reducing the manual labor of filtering through all the phishing emails as they arrive and blocking the sender’s email address, along with other time-consuming mitigation actions. Which of the following can be configured to streamline those tasks?  
+
+- <mark class="hltr-green">A. SOAR playbook</mark>
+- B. MDM policy
+- C. Firewall rules
+- D. URL filter
+- E. SIEM data collection
+-SOAR is the solution in terms of automation with reducing less labor.
+### RISK REGISTER
+
+Which of the following is MOST likely to contain ranked and ordered information on the likelihood and potential impact of catastrophic events that may affect business processes and systems, while also highlighting the residual risks that need to be managed after mitigating controls have been implemented?  
+
+- A. An RTO report
+- <mark class="hltr-green">B. A risk register</mark>
+- C. A business impact analysis
+- D. An asset value register
+- E. A disaster recovery plan
+A risk register is a document that contains ranked and ordered information on the likelihood and potential impact of various risks that may affect business processes and systems. It typically includes information on both threats and vulnerabilities and assesses the risk to the organization. The risk register also highlights the effectiveness of existing controls (mitigating controls) in reducing the impact or likelihood of the identified risks. It serves as a key tool for risk management and helps organizations prioritize and manage risks effectively.
+
+
+#### zone transfers
+A Chief Information Security Officer wants to ensure the organization is validating and checking the integrity of zone transfers. Which of the following solutions should be implemented?  
+
+-<mark class="hltr-green"> A. DNSSEC</mark>
+- B. LDAPS
+- C. NGFW
+- D. DLP
+
+#### casb2
+
+A company is moving its retail website to a public cloud provider. The company wants to tokenize credit card data but not allow the cloud provider to see the stored credit card information. Which of the following would BEST meet these objectives?  
+
+- A. WAF
+- <mark class="hltr-green">B. CASB</mark>
+- C. VPN
+- D. TLS
+What are the Top Three Uses for CASBs? Protect and prevent the loss of sensitive data across all of the cloud services in your environment, not just the ones you sanction. Take advantage of advanced, enterprise DLP to discover and protect sensitive data in sanctioned cloud services and en route to or from any cloud service, sanctioned or unsanctioned, whether users are on-premises or remote, on a mobile device or accessing from a web browser, or entering from a mobile app or sync client. Combat loss of data with encryption, tokenization, or upload prevention.
+
+---
+
+#### fog
+A systems engineer wants to leverage a cloud-based architecture with low latency between network-connected devices that also reduces the bandwidth that is required by performing analytics directly on the endpoints. Which of the following would BEST meet the requirements? (Choose two.)  
+
+- A. Private cloud
+- B. SaaS
+- <mark class="hltr-green">C. Hybrid cloud</mark>
+- D. IaaS
+- E. DRaaS
+- <mark class="hltr-green">F. Fog computing</mark>
+
+While a private cloud can provide security and control, it may not be as suitable for "low-latency" requirements in scenarios involving network-connected devices. Hybrid cloud environments can also incorporate edge computing, which processes data closer to the source (devices) to reduce latency and improve performance.
+
+---
+#### vuln
+A security analyst is reviewing the vulnerability scan report for a web server following an incident. The vulnerability that was used to exploit the server is present in historical vulnerability scan reports, and a patch is available for the vulnerability. Which of the following is the MOST likely cause?  
+
+- <mark class="hltr-green">A. Security patches were uninstalled due to user impact.</mark>
+- B. An adversary altered the vulnerability scan reports
+- C. A zero-day vulnerability was used to exploit the web server
+- D. The scan reported a false negative for the vulnerability
+
+### rto
+
+Which of the following explains why RTO is included in a BIA?  
+
+- <mark class="hltr-green">A. It identifies the amount of allowable downtime for an application or system.</mark>
+- B. It prioritizes risks so the organization can allocate resources appropriately.
+- C. It monetizes the loss of an asset and determines a break-even point for risk mitigation.
+- D. It informs the backup approach so that the organization can recover data to a known time.
+
+<mark class="hltr-blue">The Recovery Time Objective (RTO) is the maximum amount of time allowed for the recovery of a business process or system after a disruption occurs. It is an essential component of a Business Impact Analysis (BIA) because it helps to determine the criticality of various systems and applications within an organization. By understanding the RTO for each system, an organization can prioritize its recovery efforts and allocate resources appropriately to minimize downtime and ensure continuity of operations.
+</mark>
+---
 ###### PKI
 
 1. Business partners are working on a security mechanism to validate transactions securely. The requirement is for one company to be responsible for deploying a trusted solution that will register and issue artifacts used to sign, encrypt, and decrypt transaction files. Which of the following is the BEST solution to adopt?  
@@ -126,6 +209,25 @@ An untrusted SSL certificate was discovered during the most recent vulnerability
 - C. The corporate CA has expired on every server, causing the certificate to fail verification.
 - D. The scanner is incorrectly configured to not trust this certificate when detected on the server.
 ---
+### Data Center
+A Chief Information Security Officer has defined resiliency requirements for a new data center architecture. The requirements are as follows:  
+* Critical fileshares will remain accessible during and after a natural disaster.  
+* Five percent of hard disks can fail at any given time without impacting the data.  
+* Systems will be forced to shut down gracefully when battery levels are below 20%.  
+Which of the following are required to BEST meet these objectives? (Choose three.)  
+
+- A. Fiber switching
+- B. IaC
+- C. NAS
+- <mark class="hltr-green">D. RAID</mark>
+- <mark class="hltr-green">E. UPS</mark>
+- F. Redundant power supplies
+- <mark class="hltr-green">G. Geographic dispersal</mark>
+- H. Snapshots
+
+RAID covers the 5% disk failure UPS covers the graceful shutdown Geo Disp covers the critical file shares remain available during disaster
+
+---
 
 <mark class="hltr-red">120. As part of a security compliance assessment, an auditor performs automated vulnerability scans. In addition, which of the following should the auditor do to complete the assessment?  </mark>
 
@@ -192,3 +294,24 @@ A security analyst wants to fingerprint a web server. Which of the following too
 ![](Images/Captura%20de%20Pantalla%202024-02-14%20a%20las%2012.06.14.png)
 
 -
+
+## dudas 15/02
+https://www.examtopics.com/discussions/comptia/view/81119-exam-sy0-601-topic-1-question-190-discussion/
+A web server has been compromised due to a ransomware attack. Further investigation reveals the ransomware has been in the server for the past 72 hours. The systems administrator needs to get the services back up as soon as possible. Which of the following should the administrator use to restore services to a secure state?  
+
+- A. The last incremental backup that was conducted 72 hours ago Most Voted
+- B. The last known-good configuration Most Voted
+- C. The last full backup that was conducted seven days ago Most Voted
+- D. The baseline OS configuration
+
+https://www.examtopics.com/discussions/comptia/view/78867-exam-sy0-601-topic-1-question-191-discussion/
+
+https://www.examtopics.com/discussions/comptia/view/80151-exam-sy0-601-topic-1-question-197-discussion/
+https://www.examtopics.com/discussions/comptia/view/79209-exam-sy0-601-topic-1-question-202-discussion/
+https://www.examtopics.com/discussions/comptia/view/78760-exam-sy0-601-topic-1-question-204-discussion/
+https://www.examtopics.com/discussions/comptia/view/78875-exam-sy0-601-topic-1-question-208-discussion/
+https://www.examtopics.com/discussions/comptia/view/84549-exam-sy0-601-topic-1-question-216-discussion/
+https://www.examtopics.com/discussions/comptia/view/74664-exam-sy0-601-topic-1-question-316-discussion/
+
+https://www.examtopics.com/discussions/comptia/view/84944-exam-sy0-601-topic-1-question-235-discussion/
+

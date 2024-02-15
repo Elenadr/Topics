@@ -229,5 +229,67 @@ https://medium.com/@boscowjohn128/top-original-comptia-sy0-701-exam-questions-au
  170. v
  171. V
  172. F
-
+ 173. V
+ 174. V
+ 175. V
+ 176. <mark class="hltr-red">f </mark> [datacenter](Failed%20questions.md#data-center])
+ 177. v
+ 178. <mark class="hltr-red">f </mark> [rtor](Failed%20questions.md#rto])
+ 179. v
+ 180. v
+ 181. <mark class="hltr-red">f </mark> [vuln](Failed%20questions.md#vuln])
+ 182. v
+ 183. v
+ 184.  <mark class="hltr-red">f </mark> [fog](Failed%20questions.md#fog])
+ 185. v
+ 186. <mark class="hltr-red">f </mark> [CASB](Failed%20questions.md#casb2])
+ 187. <mark class="hltr-red">f </mark>
+ 188. v
+ 189. v
+ 190. <mark class="hltr-yellow">f </mark> [DUDA](Failed%20questions.md#dudas-15/02)
+ 191. <mark class="hltr-yellow">f </mark> [DUDA](Failed%20questions.md#dudas-15/02)
+ 192. v
+ 193. v
+ 194. <mark class="hltr-red">f </mark> [dnnsec](Failed%20questions.md#zone-transfers)
+ 195.  v
+ 196. v [CIS benchmarks](Concepts.md#cis-benchmarks)
+ 197. <mark class="hltr-yellow">f </mark> [DUDA](Failed%20questions.md#dudas-15/02)
+ 198. v
+ 199. v
+ 200. v
+ 201. v
+ 202. . <mark class="hltr-yellow">f </mark> [DUDA](Failed%20questions.md#dudas-15/02)
+ 203. v
+ 204. v<mark class="hltr-yellow">f </mark> [DUDA](Failed%20questions.md#dudas-15/02) // creo q ya entiiendo 
+ 205. v
+ 206. v
+ 207. v
+ 208. <mark class="hltr-yellow">f </mark> [DUDA](Failed%20questions.md#dudas-15/02)
+ 209. v
+ 210. v
+ 211. V
+ 212. V
+ 213. V
+ 214. V
+ 215. V
+ 216. <mark class="hltr-yellow">f </mark> [DUDA](Failed%20questions.md#dudas-15/02)
+ 217. V
+ 218. V
+ 219. V
+ 220. V
+ 221. V
+ 222. V
+ 223. <mark class="hltr-red">f </mark> [RISK REGISTER](Failed%20questions.md#rsk-register)
+ 224. v [brazil](https://www.examtopics.com/discussions/comptia/view/62856-exam-sy0-601-topic-1-question-194-discussion/)
+ 225.  v
+ 226. <mark class="hltr-red">f </mark> [soar](Failed%20questions.md#soar)
+ 227. v
+ 228. v
+ 229. v
+ 230. v
+ 231. V
+ 232. V
+ 233. V
+ 234. <mark class="hltr-red">f </mark> [tokeni](Failed%20questions.md#tokenization)
+ 235.  <mark class="hltr-yellow">f </mark> [DUDA](Failed%20questions.md#dudas-15/02)
 

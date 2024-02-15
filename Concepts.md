@@ -6,8 +6,11 @@
 1. [RDP 3389](#rdp-3389)
 1. [Federation](#federation)
 
+DHCP ports are 67,68, FTP:21, SFTP:22, and web pages are accessed through 443 and insecure http 80.
+SMB use TCP Port 139 445、UDP Port 137 138
+#### CIS Benchmarks
 
-
+-> CIS Benchmarks from the Center of Internet Security (CIS) are a set of globally recognized and consensus-driven best practices to help security practitioners implement and manage their cybersecurity defenses.
 ### NIC teaming
 
 which is a method used to group multiple network interface controllers (NICs) together to function as a single entity. This is often done for redundancy, load balancing, or both. It helps improve network reliability and performance by distributing network traffic across multiple NICs. ^3d74a6
