@@ -6,6 +6,10 @@
 1. [RDP 3389](#rdp-3389)
 1. [Federation](#federation)
 
+ minimize the number of backups that would need to be restored in case of data loss
+Full backups followed by differential backups
+
+---
 DHCP ports are 67,68, FTP:21, SFTP:22, and web pages are accessed through 443 and insecure http 80.
 SMB use TCP Port 139 445、UDP Port 137 138
 #### CIS Benchmarks

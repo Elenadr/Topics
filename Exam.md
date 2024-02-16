@@ -292,4 +292,86 @@ https://medium.com/@boscowjohn128/top-original-comptia-sy0-701-exam-questions-au
  233. V
  234. <mark class="hltr-red">f </mark> [tokeni](Failed%20questions.md#tokenization)
  235.  <mark class="hltr-yellow">f </mark> [DUDA](Failed%20questions.md#dudas-15/02)
+ 236. v
+ 237. <mark class="hltr-red">f </mark> [nose broi](Failed%20questions.md#nose)
+ 238. v
+ 239. .  <mark class="hltr-yellow">f </mark> [DUDA](Failed%20questions.md#dudas-15/02)
+ 240. vc
+ 241. V
+ 242. V
+ 243. F
+ 244. F During a recent incident, an external attacker was able to exploit an SMB vulnerability over the internet. Which of the following action items should a security analyst perform FIRST to prevent this from occurring again?
 
+- A. Check for any recent SMB CVEs.
+- B. Install AV on the affected server.
+- <mark class="hltr-green">C. Block unneeded TCP 445 connections. Most Voted</mark>
+- D. Deploy a NIDS in the affected subnet.
+<mark class="hltr-blue"> 245. V</mark>
+ 246. V
+ 247. V https://www.examtopics.com/exams/comptia/sy0-601/view/25/
+ 248. V
+ 249. V
+ 250. F An IT security manager requests a report on company information that is publicly available. The manager's concern is that malicious actors will be able to access the data without engaging in active reconnaissance. Which of the following is the MOST efficient approach to perform the analysis?
+
+- A. Provide a domain parameter to theHarvester tool.
+- B. Check public DNS entries using dnsenum.
+- C. Perform a Nessus vulnerability scan targeting a public company’s IP.
+- D. Execute nmap using the options: scan all ports and sneaky mode.
+ 251. V
+ 252. V
+ 253. V
+ 254. V
+ 255. V
+ 256. V
+ 257. V
+ 258. V
+ 259. FAn IT manager is estimating the mobile device budget for the upcoming year. Over the last five years, the number of devices that were replaced due to loss, damage, or theft steadily increased by 10%. Which of the following would BEST describe the estimated number of devices to be replaced next year?
+
+- A. ALE
+- <mark class="hltr-green">B. ARO</mark>
+- C. RPO
+- D. SLE 
+- ARO - annualized rate of occurrence is a representation of the frequency of the event, measured in a standard year. In our case number of the defecive device per year. Annual loss expectancy (ALE) is the loss (amount of money) due ARO. The question is about the number of the device, not about money.
+ 260. V
+ 261. V https://www.examtopics.com/exams/comptia/sy0-601/view/27/
+ 262. F  
+ 263. V
+ 264. F
+ 265. F
+ 266. V
+ 267. F 
+ 268. V
+ 269. V
+ 270. V
+ 271. F https://www.examtopics.com/exams/comptia/sy0-601/view/28/
+ 272. F
+ 273. V
+ 274. V
+ 275. V
+ 276. V
+ 277. V
+ 278. FFFFF
+ 279. FFFFFFFFF
+ 280. V
+ 281. F https://www.examtopics.com/exams/comptia/sy0-601/view/29/
+ 282. FFFFFFFFFF
+ 283. FFFFFFFFFF
+ 284. F
+ 285. F
+ 286. V
+ 287. v
+ 288. f
+ 289. v
+ 290. v
+ 291. v https://www.examtopics.com/exams/comptia/sy0-601/view/30/
+ 292. v
+ 293. v
+ 294. v
+ 295. v
+ 296. v
+ 297. ffffffffffffff
+ 298. ffffffffffffffffff
+ 299. v
+ 300. v
+ 301. v
+ 302. 

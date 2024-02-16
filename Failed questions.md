@@ -1,5 +1,12 @@
 Recap failed questions.
+An organization is migrating several SaaS applications that support SSO. The security manager wants to ensure the migration is completed securely. Which of the following application integration aspects should the organization consider before focusing into underlying implementation details? (Choose two.)
 
+- A. The back-end directory source
+- B. The identity federation protocol Most Voted
+- C. The hashing method
+- D. The encryption method
+- E. The registration authority
+- F. The certificate authorit
 #### tokenization
 A website developer is working on a new e-commerce website and has asked an information security expert for the most appropriate way to store credit card numbers to create an easy reordering process. Which of the following methods would BEST accomplish this goal?
 
@@ -315,3 +322,11 @@ https://www.examtopics.com/discussions/comptia/view/74664-exam-sy0-601-topic-1-q
 
 https://www.examtopics.com/discussions/comptia/view/84944-exam-sy0-601-topic-1-question-235-discussion/
 
+https://www.examtopics.com/discussions/comptia/view/84711-exam-sy0-601-topic-1-question-239-discussion/
+### nose
+Which of the following holds staff accountable while escorting unauthorized personnel?
+
+- A. Locks
+- B. Badges Most Voted
+- C. Cameras
+- <mark class="hltr-green">D. Visitor logs</mark>
