@@ -330,3 +330,23 @@ Which of the following holds staff accountable while escorting unauthorized pers
 - B. Badges Most Voted
 - C. Cameras
 - <mark class="hltr-green">D. Visitor logs</mark>
+
+A vulnerability has been discovered and a known patch to address the vulnerability does not exist. Which of the following controls works BEST until a proper fix is released?
+
+- A. Detective
+* <mark class="hltr-green">- B. Compensating</mark>
+- C. Deterrent
+- D. Corrective
+
+n attacker replaces a digitally signed document with another version that goes unnoticed. Upon reviewing the document’s contents, the author notices some additional verbiage that was not originally in the document but cannot validate an integrity issue. Which of the following attacks was used?
+
+- A. Cryptomalware
+- B. Hash substitution
+- C. Collision
+- D. Phishing
+The technology department at a large global company is expanding its Wi-Fi network infrastructure at the headquarters building. Which of the following should be closely coordinated between the technology, cybersecurity, and physical security departments? Select 1
+
+- A. Authentication protocol
+- B. Encryption type
+<mark class="hltr-green">- C. WAP placement</mark>
+- D. VPN configuration

@@ -8,7 +8,7 @@
 
  minimize the number of backups that would need to be restored in case of data loss
 Full backups followed by differential backups
-
+**OWASP** (Open Web Application Security Project) es una comunidad global **de** voluntarios y expertos en seguridad informática. Su misión es mejorar la seguridad **de** las aplicaciones web mediante la concienciación, la educación y la promoción **de** las mejores prácticas **de** seguridad.
 ---
 DHCP ports are 67,68, FTP:21, SFTP:22, and web pages are accessed through 443 and insecure http 80.
 SMB use TCP Port 139 445、UDP Port 137 138

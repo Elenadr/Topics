@@ -374,4 +374,96 @@ https://medium.com/@boscowjohn128/top-original-comptia-sy0-701-exam-questions-au
  299. v
  300. v
  301. v
- 302. 
+ 302. v
+ 303. v
+ 304. v
+ 305. v
+ 306. v
+ 307. v
+ 308. f
+ 309. F
+ 310. V
+ 311. V
+ 312. V
+ 313. V
+ 314. F
+ 315. V
+ 316. V
+ 317. V
+ 318. V
+ 319. V
+ 320. V
+ 321. V
+ 322. REVIEW  https://www.examtopics.com/exams/comptia/sy0-601/view/33/
+ 323. REVIEW
+ 324. V
+ 325. V
+ 326. V
+ 327. FREVIEW
+ 328. V
+ 329. V
+ 330. V
+ 331. V
+ 332. V
+ 333. REVIEW
+ 334. V
+ 335. V
+ 336. V
+ 337. V
+ 338. V
+ 339. V
+ 340. V
+ 341. v
+ 342. v
+ 343. v
+ 344. v
+ 345. v
+ 346. v
+ 347. v
+ 348. v
+ 349. v
+ 350. reve
+ 351. 
+ 352. 
+ 353. 
+ 354. 
+ 355. 
+ 356. 
+ 357. 
+ 358. 
+ 359. 
+ 360. 
+ 361. review
+ 362. v
+ 363. v
+ 364. v
+ 365. v | Discutir con Victor
+ 366. v
+ 367. v
+ 368. v
+ 369.  v | BUSCAR QUE ES PDU
+ 370. F | DISCUTIR CON VICTOR https://www.examtopics.com/exams/comptia/sy0-601/view/37/
+ 371. V | DISCUTIRCON VICTOR https://www.examtopics.com/exams/comptia/sy0-601/view/38/
+ 372. V | 
+ 373. V
+ 374. V | COMENTAR CONVIC
+ 375. V
+ 376. REPASAR BIEN, ES DE LAS APRENDIDAS MAL DE GONZALO
+ 377. F
+ 378. V
+ 379. V
+ 380. V
+ 381. F REVIEW
+ 382. v
+ 383. v
+ 384. v
+ 385. f review
+ 386. f
+ 387. v
+ 388. v
+ 389. v
+ 390. v
+ 391. V
+ 392. F REVIEW DATA CUSTODIAN
+ 393. TIO NO ENTIENDO LA PREGUNTA
+ 394. 
