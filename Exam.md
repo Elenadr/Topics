@@ -13,12 +13,12 @@ https://medium.com/@boscowjohn128/top-original-comptia-sy0-701-exam-questions-au
 3. V
 4. F  
 
-| https://www.examtopics.com/discussions/comptia/view/78466-exam-sy0-601-topic-1-question-3-discussion/ |
-| ---- |
-| A Chief Security Officer is looking for a solution that can provide increased scalability and flexibility for back-end infrastructure, allowing it to be updated and modified without disruption to services. The security architect would like the solution selected to reduce the back-end server resources and has highlighted that session persistence is not important for the applications running on the back-end servers. Which of the following would BEST meet the requirements?  <br><br>- ==A. Reverse proxy==<br>- B. Automated patch management<br>- C. Snapshots<br>- D. NIC teaming<br> |
+| https://www.examtopics.com/discussions/comptia/view/78466-exam-sy0-601-topic-1-question-3-discussion/                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A Chief Security Officer is looking for a solution that can provide increased scalability and flexibility for back-end infrastructure, allowing it to be updated and modified without disruption to services. The security architect would like the solution selected to reduce the back-end server resources and has highlighted that session persistence is not important for the applications running on the back-end servers. Which of the following would BEST meet the requirements?  <br><br>- ==A. Reverse proxy==<br>- B. Automated patch management<br>- C. Snapshots<br>- D. NIC teaming<br>                                                                                                                                                                                                                                                                                                                       |
 | <br>Given the requirements provided, the solution that would best meet the needs of increased scalability and flexibility for back-end infrastructure, while reducing server resources and allowing updates without disrupting services, would be:<br><br>A. Reverse proxy<br><br>A reverse proxy can efficiently distribute incoming client requests across multiple back-end servers, allowing for scalability and flexibility. It can also handle updates and modifications to the back-end servers without disrupting services, as it can route traffic away from servers undergoing maintenance. Additionally, a reverse proxy can reduce the load on back-end servers by caching and serving static content, thus conserving server resources. Since session persistence is not important for the applications running on the back-end servers, a reverse proxy can manage requests without requiring session affinity. |
-|  |
-|  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 4. V
 5. V
@@ -27,11 +27,11 @@ https://medium.com/@boscowjohn128/top-original-comptia-sy0-701-exam-questions-au
 8. V
 9. F
 
-| A report delivered to the Chief Information Security Officer (CISO) shows that some user credentials could be exfiltrated. The report also indicates that users tend to choose the same credentials on different systems and applications. Which of the following policies should the CISO use to prevent someone from using the exfiltrated credentials?  <br><br>- ==A. MFA==<br>- B. Lockout<br>- C. Time-based logins<br>- D. Password history |
-| ---- |
+| A report delivered to the Chief Information Security Officer (CISO) shows that some user credentials could be exfiltrated. The report also indicates that users tend to choose the same credentials on different systems and applications. Which of the following policies should the CISO use to prevent someone from using the exfiltrated credentials?  <br><br>- ==A. MFA==<br>- B. Lockout<br>- C. Time-based logins<br>- D. Password history                                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | The policy that would be most effective in preventing someone from successfully using exfiltrated credentials is:<br><br>A. MFA (Multi-Factor Authentication).<br><br>MFA adds an additional layer of security by requiring users to provide multiple forms of identification before gaining access to an account or system. Even if an attacker manages to obtain a user's credentials, they would still need to provide an additional form of authentication, such as a temporary code sent to the user's phone or generated by an authenticator app. This significantly reduces the likelihood of unauthorized access, even with compromised credentials. |
-|  |
-|  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 10. V
 11. V
 12. V
@@ -55,9 +55,9 @@ https://medium.com/@boscowjohn128/top-original-comptia-sy0-701-exam-questions-au
 22. V
  23. F ¿? ###**==Victor aiuda==**
 
-| Which of the following are common VoIP-associated vulnerabilities? (Choose two.)  <br><br>- A. SPIM<br>==- B. Vishing==<br>- C. Hopping<br>- D. Phishing<br>- E. Credential harvesting<br>- F. Tailgating |
-| ---- |
-| https://www.examtopics.com/exams/comptia/sy0-601/view/3/ |
+| Which of the following are common VoIP-associated vulnerabilities? (Choose two.)  <br><br>- <mark class="hltr-yellow">A. SPIM</mark><br>==- B. Vishing==<br>- C. Hopping<br>- D. Phishing<br>- E. Credential harvesting<br>- F. Tailgating |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| https://www.examtopics.com/exams/comptia/sy0-601/view/3/                                                                                                                                                                                   |
  24. V
  25. V
  26. F ¿? ¿? ###**==Victor aiuda
@@ -255,7 +255,7 @@ https://medium.com/@boscowjohn128/top-original-comptia-sy0-701-exam-questions-au
  196. v [CIS benchmarks](Concepts.md#cis-benchmarks)
  197. <mark class="hltr-yellow">f </mark> [DUDA](Failed%20questions.md#dudas-15/02)
  198. v
- 199. v
+ 199. v review
  200. v
  201. v
  202. . <mark class="hltr-yellow">f </mark> [DUDA](Failed%20questions.md#dudas-15/02)
@@ -441,7 +441,7 @@ https://medium.com/@boscowjohn128/top-original-comptia-sy0-701-exam-questions-au
  366. v
  367. v
  368. v
- 369.  v | BUSCAR QUE ES PDU
+ 369.  v | BUSCAR QUE ES PDU PDU = power distribution of unit/
  370. F | DISCUTIR CON VICTOR https://www.examtopics.com/exams/comptia/sy0-601/view/37/
  371. V | DISCUTIRCON VICTOR https://www.examtopics.com/exams/comptia/sy0-601/view/38/
  372. V | 
@@ -466,4 +466,30 @@ https://medium.com/@boscowjohn128/top-original-comptia-sy0-701-exam-questions-au
  391. V
  392. F REVIEW DATA CUSTODIAN
  393. TIO NO ENTIENDO LA PREGUNTA
- 394. 
+ 394. -
+ 395. -
+ 396. -
+ 397. -
+ 398. -
+ 399. -
+ 400. -
+ 401. -
+ 402. -
+ 403. -
+ 404. -
+ 405. -
+ 406. -
+ 407. -
+ 408. -
+ 409. -
+ 410. -
+ 411. -
+ 412. -
+ 413. -
+ 414. -
+ 415. -
+ 416. -
+ 417. -
+ 418. -
+ 419. -
+ 420. -

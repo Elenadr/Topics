@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9c828cd7d959e12c",
@@ -158,9 +158,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false
@@ -169,10 +169,10 @@
   "active": "7e4d35888102c34f",
   "lastOpenFiles": [
     "Failed questions.md",
-    "README.md",
-    "Exam.md",
-    "Sin título",
     "Concepts.md",
+    "Exam.md",
+    "README.md",
+    "Sin título",
     "Images/Captura de Pantalla 2024-02-14 a las 12.06.14.png",
     "Pasted image 20240214120228.png",
     "Images",
