@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam.md",
+                "file": "Failed questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam.md",
+                "file": "Segunda vuelta.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam.md",
+                "file": "Segunda vuelta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam.md",
+                "file": "Segunda vuelta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam.md"
+                "file": "Segunda vuelta.md"
               }
             }
           },
@@ -166,11 +167,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7e4d35888102c34f",
+  "active": "52d3fb2788dda014",
   "lastOpenFiles": [
-    "Failed questions.md",
-    "Concepts.md",
     "Exam.md",
+    "Failed questions.md",
+    "Segunda vuelta.md",
+    "Concepts.md",
     "README.md",
     "Sin título",
     "Images/Captura de Pantalla 2024-02-14 a las 12.06.14.png",
