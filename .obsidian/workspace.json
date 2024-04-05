@@ -25,14 +25,96 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segunda vuelta.md",
+                "file": "Exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34489396d0edf20a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f958920d34ef803f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9c7e517c4767a96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa6640421b5b49ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0699dc8c6e6d5e76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comptias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cad830bd1d0a2d4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
+            "id": "0fefd709f5ce917e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "T.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -98,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segunda vuelta.md",
+                "file": "T.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segunda vuelta.md",
+                "file": "T.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segunda vuelta.md"
+                "file": "T.md"
               }
             }
           },
@@ -167,13 +249,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "52d3fb2788dda014",
+  "active": "0fefd709f5ce917e",
   "lastOpenFiles": [
+    "T.md",
+    "badquests.md",
+    "Comptias.md",
+    "Concepts.md",
     "Exam.md",
     "Failed questions.md",
-    "Segunda vuelta.md",
-    "Concepts.md",
     "README.md",
+    "Segunda vuelta.md",
+    "Sin título.md",
+    "Sin título 1.md",
+    "Sin título 2.md",
     "Sin título",
     "Images/Captura de Pantalla 2024-02-14 a las 12.06.14.png",
     "Pasted image 20240214120228.png",

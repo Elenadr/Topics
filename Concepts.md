@@ -6,6 +6,18 @@
 1. [RDP 3389](#rdp-3389)
 1. [Federation](#federation)
 
+
+
+
+SIEM systems are related with log aggregation and correlation from various sources. SOAR provides automation tools which are going to reduce the amount of manual work for the analysts.
+
+---
+
+## cybersecurity framework(CSF)
+is a list of activities and objectives undertaken to mitigate risks. The use of a framework allows an organization to make an objective statement of its current cybersecurity capabilities, identify a target level of capability, and prioritize investments to achieve that target. This is valuable for giving a structure to internal risk management procedures and provides an externally verifiable statement of regulatory compliance. Frameworks are also important because they save an organization from building its security program in a vacuum, or from building the program on a foundation that fails to account for important security concepts.
+
+---
+
  minimize the number of backups that would need to be restored in case of data loss
 Full backups followed by differential backups
 **OWASP** (Open Web Application Security Project) es una comunidad global **de** voluntarios y expertos en seguridad informática. Su misión es mejorar la seguridad **de** las aplicaciones web mediante la concienciación, la educación y la promoción **de** las mejores prácticas **de** seguridad.
