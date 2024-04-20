@@ -44,42 +44,6 @@
             }
           },
           {
-            "id": "f958920d34ef803f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sin título 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9c7e517c4767a96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sin título 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa6640421b5b49ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sin título 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0699dc8c6e6d5e76",
             "type": "leaf",
             "state": {
@@ -119,18 +83,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segunda vuelta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3313cbed3691b1be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Final/The end.md",
                 "mode": "source",
                 "source": false
@@ -138,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -273,36 +225,40 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3313cbed3691b1be",
+  "active": "71423197d256b212",
   "lastOpenFiles": [
-    "Segunda vuelta.md",
-    "Final/The end.md",
-    "Sin título.md",
-    "Sin título 1.md",
-    "Sin título 2.md",
-    "Final",
+    "Images/Pasted image 20240307093526.png",
     "img/Pasted image 20240405143150.png",
-    "img",
-    "README.md",
-    "T.md",
     "office.md",
-    "Review march/Review.md",
+    "Pasted image 20240418214706.png",
+    "Pasted image 20240419100358.png",
+    "README.md",
+    "Welcome.md",
+    "Sin título.md",
+    "T.md",
+    "Segunda vuelta.md",
+    "Sin título 2.md",
+    "Sin título 1.md",
+    "Pasted image 20240418214913.png",
+    "Pasted image 20240418214645.png",
+    "Last dance.md",
+    "Failed questions.md",
+    "Exam.md",
+    "create a link.md",
+    "Concepts.md",
+    "Comptias.md",
+    "badquests.md",
     "Review march/Review questions.md",
+    "Review march/Review.md",
+    "Final/The end.md",
+    "Final",
+    "img",
     "Review march",
     "Images/Pasted image 20240403115138.png",
     "Images/Pasted image 20240403115107.png",
     "Images/Pasted image 20240403114757.png",
     "Images/Pasted image 20240403114648.png",
     "Images/Pasted image 20240322121356.png",
-    "Images/Pasted image 20240322121227.png",
-    "Images/Pasted image 20240322121212.png",
-    "Images/Pasted image 20240322121001.png",
-    "Images/Pasted image 20240322120905.png",
-    "badquests.md",
-    "Comptias.md",
-    "Concepts.md",
-    "Exam.md",
-    "Failed questions.md",
     "Images",
     "blob/main/Failed questions.md",
     "blob/main",

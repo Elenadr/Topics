@@ -1,3 +1,0 @@
-S/MIME (Secure/Multipurpose Internet Mail Extensions) is a technology that provides end-to-end encryption for email messages. When S/MIME is implemented, email messages are encrypted while at rest on the email server, making it difficult for an attacker to access the content even if they gain unauthorized access to the mail servers.
-
-"As the week progresses, the incremental backups stay about the same size." "As the week progresses, the differential backup steadily grows in size."
