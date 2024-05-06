@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final/The end.md",
+                "file": "Last dance.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final/The end.md",
+                "file": "Last dance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final/The end.md",
+                "file": "Last dance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final/The end.md"
+                "file": "Last dance.md"
               }
             }
           },
@@ -227,13 +227,14 @@
   },
   "active": "71423197d256b212",
   "lastOpenFiles": [
+    "Welcome.md",
+    "Final/The end.md",
     "Images/Pasted image 20240307093526.png",
     "img/Pasted image 20240405143150.png",
     "office.md",
     "Pasted image 20240418214706.png",
     "Pasted image 20240419100358.png",
     "README.md",
-    "Welcome.md",
     "Sin título.md",
     "T.md",
     "Segunda vuelta.md",
@@ -250,7 +251,6 @@
     "badquests.md",
     "Review march/Review questions.md",
     "Review march/Review.md",
-    "Final/The end.md",
     "Final",
     "img",
     "Review march",
@@ -258,7 +258,6 @@
     "Images/Pasted image 20240403115107.png",
     "Images/Pasted image 20240403114757.png",
     "Images/Pasted image 20240403114648.png",
-    "Images/Pasted image 20240322121356.png",
     "Images",
     "blob/main/Failed questions.md",
     "blob/main",
